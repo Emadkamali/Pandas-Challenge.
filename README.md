@@ -10,6 +10,13 @@ The goal of this project is to provide insights into various aspects of school p
 - School-level performance metrics
 - Grade-level comparisons
 - Impact of factors such as school spending, size, and type on academic achievement
+
+  # Result
+- Efficiency in resource allocation is evident in schools with lower per-student spending, which often display higher academic performance. Despite operating with smaller budgets per student, charter schools consistently outperform district schools, indicating effective resource utilization and instructional strategies.
+
+- Regarding school size's influence on academic success, medium-sized schools (1000-2000 students) exhibit the highest academic performance, followed by small-sized schools (<1000 students), with large schools (2000-5000 students) trailing behind. Larger schools encounter difficulties in managing larger student populations and providing personalized support, resulting in comparatively lower academic achievement compared to their smaller counterparts.
+
+- In terms of spending ranges' impact on academic performance, schools with a spending range of less than $585 per student demonstrate the most exceptional academic performance across all metrics. As spending per student increases, there is a gradual decline in academic outcomes, with schools in the $645-680 spending range showing the poorest academic performance.
   
 # Files Included:
 
